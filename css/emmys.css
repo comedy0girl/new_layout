@@ -1,0 +1,66 @@
+/**** FYC 2015 *****/
+
+.page-template-fyc-goldbergs-php .container, .page-template-fyc-troy-php .container, .page-template-fyc-wendi-php .container {max-width: 100%; margin: 0;}
+.page-template-fyc-goldbergs-php, .page-template-fyc-troy-php, .page-template-fyc-wendi-php {background: white;}
+.page-template-fyc-goldbergs-php .category h4, .page-template-fyc-troy-php .category h4, .page-template-fyc-wendi-php .category h4{background-color: #edc31b; color: white; text-align: center; }
+.page-template-fyc-goldbergs-php .fyc-top h4, .page-template-fyc-troy-php .fyc-top h4, .page-template-fyc-wendi-php .fyc-top h4 {color: white; padding-top:40px; margin-bottom: 0px; font-weight: bold;}
+.page-template-fyc-goldbergs-php .fyc-top, .page-template-fyc-troy-php .fyc-top, .page-template-fyc-wendi-php .fyc-top{text-align: center;}
+.page-template-fyc-goldbergs-php .nav-bar ul, .page-template-fyc-troy-php .nav-bar ul, .page-template-fyc-wendi-php .nav-bar ul {margin: 44px 0 0 0}
+.page-template-fyc-goldbergs-php .container-single, .page-template-fyc-troy-php .container-single, .page-template-fyc-wendi-php .container-single {margin: 0 20px;}
+.page-template-fyc-goldbergs-php .fyc-quote, .page-template-fyc-troy-php .fyc-quote, .page-template-fyc-wendi-php .fyc-quote {margin:0 30px;}
+.page-template-fyc-goldbergs-php .fyc-quote span , .page-template-fyc-troy-php .fyc-quote span , .page-template-fyc-wendi-php .fyc-quote span {font-size: 0.5em; font-weight: bold;}
+.page-template-fyc-goldbergs-php figure, .page-template-fyc-troy-php figure, .page-template-fyc-wendi-php figure {margin: 0px; display: inline-block; padding: 5px 0; }
+.page-template-fyc-goldbergs-php a, .page-template-fyc-troy-php a, .page-template-fyc-wendi-php a {color: black; }
+.page-template-fyc-goldbergs-php a:hover, .page-template-fyc-troy-php a:hover, .page-template-fyc-wendi-php a:hover {color: blue; }
+.page-template-fyc-goldbergs-php .fa, .page-template-fyc-troy-php .fa, .page-template-fyc-wendi-php .fa {font-size: 0.7em; color: black;}
+
+.page-template-fyc-goldbergs-php .fyc-downloads, .page-template-fyc-troy-php .fyc-downloads, .page-template-fyc-wendi-php .fyc-downloads {text-align: center;}
+
+.page-template-fyc-goldbergs-php .wpfai-list, .page-template-fyc-troy-php .wpfai-list, .page-template-fyc-wendi-php .wpfai-list {text-align: center; list-style: none; padding: 15px;}
+.page-template-fyc-goldbergs-php .wpfai-list li, .page-template-fyc-troy-php .wpfai-list li, .page-template-fyc-wendi-php .wpfai-list li {display: inline;}
+.page-template-fyc-goldbergs-php .fyc-footer h2, .page-template-fyc-troy-php .fyc-footer h2, .page-template-fyc-wendi-php .fyc-footer h2 {color: white; padding-top: 10px; margin-left: 20px; font-weight: bold;}
+.page-template-fyc-goldbergs-php.footer-nav-fyc , .page-template-fyc-troy-php.footer-nav-fyc , .page-template-fyc-wendi-php.footer-nav-fyc {font-size: 0.7em; background-color: #f4f3f3; text-align: center; margin-top: -1.6em;}
+.page-template-fyc-goldbergs-php .footer-nav-fyc a, .page-template-fyc-troy-php .footer-nav-fyc a, .page-template-fyc-wendi-php .footer-nav-fyc a {color: black;}
+.page-template-fyc-goldbergs-php .footer-nav-fyc a:hover, .page-template-fyc-troy-php .footer-nav-fyc a:hover, .page-template-fyc-wendi-php .footer-nav-fyc a:hover {color: grey;}
+.page-template-fyc-goldbergs-php .copyright-fyc, .page-template-fyc-troy-php .copyright-fyc, .page-template-fyc-wendi-php .copyright-fyc {color: black; font-weight: bold; font-size: 0.8em;}}
+/**.page-template-fyc-wendi-php  .copyright-fyc {font-size: 0.8em;} **/
+.page-template-fyc-goldbergs-php .fyc-footer sup , .page-template-fyc-troy-php .fyc-footer sup , .page-template-fyc-wendi-php .fyc-footer sup {top: -0.9em; font-size: 0.4em;}
+.page-template-fyc-goldbergs-php .footer-nav-fyc li, .page-template-fyc-troy-php .footer-nav-fyc li, .page-template-fyc-wendi-php .footer-nav-fyc li {display: inline; padding: 1em; margin-bottom: 30px; font-weight: bold; color: black; font-size: 1.5em;}
+.page-template-fyc-goldbergs-php .fyc-footer , .page-template-fyc-troy-php .fyc-footer , .page-template-fyc-wendi-php .fyc-footer {
+text-align:center;
+background: rgba(237,195,27,1);
+background: -moz-linear-gradient(top, rgba(237,195,27,1) 0%, rgba(237,195,27,1) 0%, rgba(255,255,255,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(237,195,27,1)), color-stop(0%, rgba(237,195,27,1)), color-stop(100%, rgba(255,255,255,1)));
+background: -webkit-linear-gradient(top, rgba(237,195,27,1) 0%, rgba(237,195,27,1) 0%, rgba(255,255,255,1) 100%);
+background: -o-linear-gradient(top, rgba(237,195,27,1) 0%, rgba(237,195,27,1) 0%, rgba(255,255,255,1) 100%);
+background: -ms-linear-gradient(top, rgba(237,195,27,1) 0%, rgba(237,195,27,1) 0%, rgba(255,255,255,1) 100%);
+background: linear-gradient(to bottom, rgba(237,195,27,1) 0%, rgba(237,195,27,1) 0%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edc31b', endColorstr='#ffffff', GradientType=0 );
+}
+
+.page-template-fyc-goldbergs-php .fyc-video, .page-template-fyc-troy-php .fyc-video, .page-template-fyc-wendi-php .fyc-video{
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.page-template-fyc-goldbergs-php .fyc-video iframe, .page-template-fyc-troy-php .fyc-video iframe, .page-template-fyc-wendi-php .fyc-video iframe{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.page-template-fyc-goldbergs-php .fyc-top , .page-template-fyc-troy-php .fyc-top, .page-template-fyc-wendi-php .fyc-top {min-height: 80px;
+	background: rgba(216,225,231,1);
+	background: -moz-linear-gradient(top, rgba(216,225,231,1) 0%, rgba(255,255,255,1) 0%, rgba(252,245,219,1) 16%, rgba(237,195,27,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(216,225,231,1)), color-stop(0%, rgba(255,255,255,1)), color-stop(16%, rgba(252,245,219,1)), color-stop(100%, rgba(237,195,27,1)));
+	background: -webkit-linear-gradient(top, rgba(216,225,231,1) 0%, rgba(255,255,255,1) 0%, rgba(252,245,219,1) 16%, rgba(237,195,27,1) 100%);
+	background: -o-linear-gradient(top, rgba(216,225,231,1) 0%, rgba(255,255,255,1) 0%, rgba(252,245,219,1) 16%, rgba(237,195,27,1) 100%);
+	background: -ms-linear-gradient(top, rgba(216,225,231,1) 0%, rgba(255,255,255,1) 0%, rgba(252,245,219,1) 16%, rgba(237,195,27,1) 100%);
+	background: linear-gradient(to bottom, rgba(216,225,231,1) 0%, rgba(255,255,255,1) 0%, rgba(252,245,219,1) 16%, rgba(237,195,27,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e1e7', endColorstr='#edc31b', GradientType=0 );
+}
+.page-template-fyc-goldbergs-php.fyc-banner img, .page-template-fyc-troy-php.fyc-banner img, .page-template-fyc-wendi-php.fyc-banner img{border-bottom: 4px solid #EDC31B; width: 100%; display: block; margin: 0 auto;}
+
+
