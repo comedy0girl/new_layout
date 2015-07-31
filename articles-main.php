@@ -8,6 +8,7 @@
 			<div class="four-half columns">
 				<div class="year">
 					<h3 style="text-align: left;">2007</h3>
+					<div class="clear"/>
 					<ul style="text-align: left;">
 						<li>&#9829; <a title="Talk Humour August 2007" href="http://wendimclendoncovey.skl.me/talkhumour2007" target="_blank">Talk Humour</a></li>
 						<li>&#9829; <a href="http://wendimclendoncovey.skl.me/articlesmain/long-beach-press-telegram-2007" target="_blank">Dancer to Deputy</a></li>
@@ -36,17 +37,12 @@
 						<li>&#9829; <a href="http://wendimclendoncovey.skl.me/articlesmain/castinterview2011" target="_blank">Wiig, Apatow &amp; The ‘Bridesmaids’ Cast On Making With The Funny</a></li>
 					</ul>
 				</div><!-- 2011 -->
-			</div>
 			
-			<div class="two-thirds column">
-				<div class="articles-groundlings">
-					<h4>"At The Groundlings, it was about who could be the ugliest, do the most embarrassing thing
-					on stage, and walk out with their head held high."</h4>
-				</div>
-			</div>
+			
+		
 	
 		
-			<div class="four-half columns">
+			
 				<div class="year">
 					<h3 style="text-align: left;">2012</h3>
 					<ul>
@@ -64,9 +60,9 @@
 						<li>&#9829; <a title="Funny Never Looked So Sexy | Regard Magazine December 2013" href="http://wendimclendoncovey.skl.me/articlesmain/funny-never-looked-so-sexy/">Funny Never Looked So Sexy2014</a></li>
 					</ul>
 				</div><!-- 2013 -->
-			</div>
+			
 
-			<div class="four-half columns">
+			
 				<div class="year">
 				<h3 style="text-align: left;">2014</h3>
 					<ul style="text-align: left;">
@@ -80,12 +76,8 @@
 					</ul>
 				</div><!-- 2014 -->
 			</div>
-			
-			<div class="two-thirds column">
-				<div class="articles-quote">
-					<h4>"If that is in your heart, that this is something you want to do, don't give up!"</h4>
-				</div>
-			</div>
+				<?php dynamic_sidebar('navigation_sidebar'); ?>
+		
 			
 		</div><!-- articles main container -->	
 		</div>

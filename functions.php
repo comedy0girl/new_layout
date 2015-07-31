@@ -89,13 +89,13 @@ if ( function_exists('register_sidebar') ) {
    'after_title' => '</h2>'
     ));
 	
-	register_sidebar(array(
-   'name' => 'audio_sidebar',
-   'before_widget' => '<div id="%1$s" class="widget %2$s">',
-   'after_widget' => '</div>',
-   'before_title' => '<h2>',
-   'after_title' => '</h2>'
-   ));
+	// register_sidebar(array(
+ //   'name' => 'audio_sidebar',
+ //   'before_widget' => '<div id="%1$s" class="widget %2$s">',
+ //   'after_widget' => '</div>',
+ //   'before_title' => '<h2>',
+ //   'after_title' => '</h2>'
+ //   ));
 
    register_sidebar(array(
    'name' => 'instagram_sidebar',
@@ -105,13 +105,13 @@ if ( function_exists('register_sidebar') ) {
    'after_title' => '</h2>'
    ));
    
-   register_sidebar(array(
-   'name' => 'twitter_sidebar',
-   'before_widget' => '<div id="%1$s" class="widget %2$s">',
-   'after_widget' => '</div>',
-   'before_title' => '<h2>',
-   'after_title' => '</h2>'
-   ));
+   // register_sidebar(array(
+   // 'name' => 'twitter_sidebar',
+   // 'before_widget' => '<div id="%1$s" class="widget %2$s">',
+   // 'after_widget' => '</div>',
+   // 'before_title' => '<h2>',
+   // 'after_title' => '</h2>'
+   // ));
    
    register_sidebar(array(
    'name' => 'latest_news_sidebar',
@@ -120,6 +120,14 @@ if ( function_exists('register_sidebar') ) {
    'before_title' => '<h2>',
    'after_title' => '</h2>'
    ));
+
+   register_sidebar(array(
+   'name' => 'navigation_sidebar',
+   'before_widget' => '<div id="%1$s" class="widget %2$s">',
+   'after_widget' => '</div>',
+   'before_title' => '<h2>',
+   'after_title' => '</h2>'
+    ));
 
 }
 

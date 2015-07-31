@@ -27,8 +27,22 @@ get_header(); ?>
 					<a href="https://www.facebook.com/wendi.mclendoncovey"><i class="fa fa-facebook"></a></i>
 				</div><!-- wendi social -->
 				<div class="clear"/>
+
+				<?php dynamic_sidebar('instagram_sidebar'); ?>
 			</div><!-- one half column -->
 		</div><!-- row-->
+
+		<?php dynamic_sidebar('navigation_sidebar'); ?>
+		<!-- <div class="four-half columns">
+			<div class="sidebarNav">
+				<ul>
+					<li><i class="fa fa-arrow-left"></i><a href="javascript: history.go(-1)">Back to previous page</a></li>
+					<li><a href="/">Home Page</a></li>
+					<li><a href="/">Home Page</a></li>
+					<li><a href="/">Home Page</a></li>
+				</ul>
+			</div>
+		</div> -->
 		
 		<div class=" one-half column">
 
@@ -99,7 +113,7 @@ get_header(); ?>
 		
 			<div class="eleven columns">
 				<div class="instagram-feed">
-					<?php dynamic_sidebar('instagram_sidebar'); ?>
+					
 				</div><!-- instagram- feed ends -->
 			</div><!-- one half columns -->
 		
